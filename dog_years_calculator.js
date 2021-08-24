@@ -1,6 +1,6 @@
 /****************************************************************************************************
-*** File Name:      TemperatureCalculator.js
-*** Description:    JavaScript to convert years to reflect a dogs age
+*** File Name:      dog_years_calculator.js
+*** Description:    JavaScript to convert years to dog years
 *** Author:         Trevor Carson
 *** Date:           2021-08-24
 *****************************************************************************************************/
