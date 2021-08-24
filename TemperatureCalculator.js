@@ -1,7 +1,8 @@
 /****************************************************************************************************
 *** File Name:      TemperatureCalculator.js
-*** Description:    JavaScript to convert a temperature in kelvin to Celsius/Fahrenheit/Newton Scale
+*** Description:    JavaScript to convert a temperature in Kelvin to Celsius/Fahrenheit/Newton Scale
 *** Author:         Trevor Carson
+*** Date:           2021-08-24
 *****************************************************************************************************/
 
 // Constant variable to store the current temperature
