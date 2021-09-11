@@ -1,6 +1,6 @@
 /****************************************************************************************************
 *** File Name:      read_text_file_line_by_line.js
-*** Description:    JavaScript to read a text file
+*** Description:    JavaScript to read a text file line by line
 *** Author:         Trevor Carson
 *** Date:           2021-09-11
 *****************************************************************************************************/
